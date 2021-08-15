@@ -1,0 +1,42 @@
+.container {
+	width: 600px;
+	height: 650px;
+	border: 5px solid black;
+	margin: auto;
+	position: relative;
+}
+
+/*.satu { (Skrip positioning relative)
+	background-color: black;
+
+}
+.dua{
+	background-color: red;
+	position: relative;
+	top: 30px;
+}
+.tiga{
+	background-color: green;
+}*/
+
+.satu {
+	width: 200px;
+	height: 200px; 
+	background-color: black;
+	margin: auto;
+}
+.dua{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: auto;
+}
+.tiga{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	margin: auto;
+}
